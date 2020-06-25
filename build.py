@@ -20,7 +20,7 @@ GN_OPTIONS = {
 	'v8_enable_fast_torque' : False,
 	'v8_enable_verify_heap' : False, # to fix VC++ Linker error in Debug configuratons
 	#'v8_optimized_debug' : False,
-	#'v8_use_snapshot' : True,
+	'v8_use_snapshot' : False,
 	'v8_use_external_startup_data' : False,
 	#'v8_enable_handle_zapping' : True,
 	#'v8_check_header_includes' : True,
