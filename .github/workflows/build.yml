@@ -1,4 +1,4 @@
-name: Build V8  
+name: Build V8 Shared 
 
 on:
   push:
